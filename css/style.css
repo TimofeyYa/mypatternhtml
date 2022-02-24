@@ -1,0 +1,18 @@
+*{
+    box-sizing: border-box;
+    outline: none;
+    resize: none;
+}
+
+:root{
+    
+}
+
+.container{
+    max-width: 1240px;
+    padding: 0 20px;
+    margin: 0 auto;
+}
+
+
+/* header */
